@@ -79,7 +79,7 @@ Remember to change the ```<password>``` field in the MongoDB URI with your datab
 
 ## Tech Stack
 
-![NodeJS](https://img.icons8.com/color/65/nodejs.png)**NodeJS** | ![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg) **ExpressJS** | ![MongoDB](https://img.icons8.com/color/65/000000/mongodb.png)**MongoDB**
+![NodeJS](https://img.icons8.com/color/65/nodejs.png) **NodeJS** | ![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg) **ExpressJS** | ![MongoDB](https://img.icons8.com/color/65/000000/mongodb.png)**MongoDB**
 |:---:|:---:|:---:|
 
 
